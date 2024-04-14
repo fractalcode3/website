@@ -1,0 +1,168 @@
+@font-face {
+    font-family: 'Plus Jakarta Display';
+    src: url('PlusJakartaDisplay-Bold.eot');
+    src: url('PlusJakartaDisplay-Bold.eot?#iefix') format('embedded-opentype'),
+        url('PlusJakartaDisplay-Bold.woff2') format('woff2'),
+        url('PlusJakartaDisplay-Bold.woff') format('woff'),
+        url('PlusJakartaDisplay-Bold.svg#PlusJakartaDisplay-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plus Jakarta Display';
+    src: url('PlusJakartaDisplay-Italic.eot');
+    src: url('PlusJakartaDisplay-Italic.eot?#iefix') format('embedded-opentype'),
+        url('PlusJakartaDisplay-Italic.woff2') format('woff2'),
+        url('PlusJakartaDisplay-Italic.woff') format('woff'),
+        url('PlusJakartaDisplay-Italic.svg#PlusJakartaDisplay-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plus Jakarta Display';
+    src: url('PlusJakartaDisplay-LightItalic.eot');
+    src: url('PlusJakartaDisplay-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('PlusJakartaDisplay-LightItalic.woff2') format('woff2'),
+        url('PlusJakartaDisplay-LightItalic.woff') format('woff'),
+        url('PlusJakartaDisplay-LightItalic.svg#PlusJakartaDisplay-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plus Jakarta Display';
+    src: url('PlusJakartaDisplay-Light.eot');
+    src: url('PlusJakartaDisplay-Light.eot?#iefix') format('embedded-opentype'),
+        url('PlusJakartaDisplay-Light.woff2') format('woff2'),
+        url('PlusJakartaDisplay-Light.woff') format('woff'),
+        url('PlusJakartaDisplay-Light.svg#PlusJakartaDisplay-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plus Jakarta Display';
+    src: url('PlusJakartaDisplay-BoldItalic.eot');
+    src: url('PlusJakartaDisplay-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('PlusJakartaDisplay-BoldItalic.woff2') format('woff2'),
+        url('PlusJakartaDisplay-BoldItalic.woff') format('woff'),
+        url('PlusJakartaDisplay-BoldItalic.svg#PlusJakartaDisplay-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plus Jakarta Display';
+    src: url('PlusJakartaDisplay-Medium.eot');
+    src: url('PlusJakartaDisplay-Medium.eot?#iefix') format('embedded-opentype'),
+        url('PlusJakartaDisplay-Medium.woff2') format('woff2'),
+        url('PlusJakartaDisplay-Medium.woff') format('woff'),
+        url('PlusJakartaDisplay-Medium.svg#PlusJakartaDisplay-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plus Jakarta Text';
+    src: url('PlusJakartaText-BoldItalic.eot');
+    src: url('PlusJakartaText-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('PlusJakartaText-BoldItalic.woff2') format('woff2'),
+        url('PlusJakartaText-BoldItalic.woff') format('woff'),
+        url('PlusJakartaText-BoldItalic.svg#PlusJakartaText-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plus Jakarta Text';
+    src: url('PlusJakartaText-Italic.eot');
+    src: url('PlusJakartaText-Italic.eot?#iefix') format('embedded-opentype'),
+        url('PlusJakartaText-Italic.woff2') format('woff2'),
+        url('PlusJakartaText-Italic.woff') format('woff'),
+        url('PlusJakartaText-Italic.svg#PlusJakartaText-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plus Jakarta Text';
+    src: url('PlusJakartaText-LightItalic.eot');
+    src: url('PlusJakartaText-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('PlusJakartaText-LightItalic.woff2') format('woff2'),
+        url('PlusJakartaText-LightItalic.woff') format('woff'),
+        url('PlusJakartaText-LightItalic.svg#PlusJakartaText-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plus Jakarta Text';
+    src: url('PlusJakartaText-Bold.eot');
+    src: url('PlusJakartaText-Bold.eot?#iefix') format('embedded-opentype'),
+        url('PlusJakartaText-Bold.woff2') format('woff2'),
+        url('PlusJakartaText-Bold.woff') format('woff'),
+        url('PlusJakartaText-Bold.svg#PlusJakartaText-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plus Jakarta Display';
+    src: url('PlusJakartaDisplay-MediumItalic.eot');
+    src: url('PlusJakartaDisplay-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('PlusJakartaDisplay-MediumItalic.woff2') format('woff2'),
+        url('PlusJakartaDisplay-MediumItalic.woff') format('woff'),
+        url('PlusJakartaDisplay-MediumItalic.svg#PlusJakartaDisplay-MediumItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plus Jakarta Text';
+    src: url('PlusJakartaText-Regular.eot');
+    src: url('PlusJakartaText-Regular.eot?#iefix') format('embedded-opentype'),
+        url('PlusJakartaText-Regular.woff2') format('woff2'),
+        url('PlusJakartaText-Regular.woff') format('woff'),
+        url('PlusJakartaText-Regular.svg#PlusJakartaText-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plus Jakarta Display';
+    src: url('PlusJakartaDisplay-Regular.eot');
+    src: url('PlusJakartaDisplay-Regular.eot?#iefix') format('embedded-opentype'),
+        url('PlusJakartaDisplay-Regular.woff2') format('woff2'),
+        url('PlusJakartaDisplay-Regular.woff') format('woff'),
+        url('PlusJakartaDisplay-Regular.svg#PlusJakartaDisplay-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plus Jakarta Text';
+    src: url('PlusJakartaText-Light.eot');
+    src: url('PlusJakartaText-Light.eot?#iefix') format('embedded-opentype'),
+        url('PlusJakartaText-Light.woff2') format('woff2'),
+        url('PlusJakartaText-Light.woff') format('woff'),
+        url('PlusJakartaText-Light.svg#PlusJakartaText-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
